@@ -13,3 +13,7 @@ pip install networkx
 pyvis v(0.1.7.0)
 
 networkx v(2.3)
+
+for more read the comments given in code 
+
+cont : nitin53_sit@jnu.ac.in
