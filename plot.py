@@ -3,7 +3,7 @@
 # usage $python plot.py input_edgelist_file output_file
 #output will be created as .html open it in browser
 
-#PYTHON3
+#python3
 #pip install pyvis
 #pip install networkx
 
