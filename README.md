@@ -16,4 +16,4 @@ networkx v(2.3)
 
 for more read the comments given in code 
 
-cont : nitin53_sit@jnu.ac.in
+cont : Nitin53_sit@jnu.ac.in
